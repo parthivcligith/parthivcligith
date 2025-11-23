@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthiv C Ligith</h1>
-<h3 align="center">Full-Stack Developer | Next.js • Supabase • Vercel | CI/CD Automation | Founder of LeNet Labs, Kochiplaza Arc</h3>
+<h3 align="center">Full-Stack Developer | Next.js • Supabase • Vercel | CI/CD Automation | LeNet Labs, Kochiplaza Arc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivcligith&label=Profile%20views&color=0e75b6&style=flat" alt="parthivcligith" /> </p>
 
