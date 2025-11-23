@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivcligith&label=Profile%20views&color=0e75b6&style=flat" alt="parthivcligith" /> </p>
 
-- 🔭 I’m currently working on [Sowparnika Properties](sowparnikaproperties.com)
+- 🔭 I’m currently working on a solo project [Sowparnika Properties](sowparnikaproperties.com)
 
 - 👨‍💻 All of my projects are available at [https://parthivcligith.github.io/portfolio/](https://parthivcligith.github.io/portfolio/)
 
